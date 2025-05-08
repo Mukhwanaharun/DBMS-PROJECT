@@ -2,8 +2,8 @@
 
 ## Question 1: Library Management System
 
-- Built with MySQL
-- Includes relationships: One-to-Many (Authors to Books), Many-to-Many (Books to Members via Loans)
+Built with MySQL
+Includes relationships: 1-M (Authors to Books), M-M (Books to Members via Loans)
 
 ## Question 2: Contact Book API
 
